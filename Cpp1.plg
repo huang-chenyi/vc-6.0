@@ -1,0 +1,42 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Cpp1 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\43502\AppData\Local\Temp\RSPF155.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/Cpp1.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\南大 NCU\课程相关\编程课\编程练习\vc++6.0\Cpp1.cpp"
+]
+Creating command line "cl.exe @C:\Users\43502\AppData\Local\Temp\RSPF155.tmp" 
+<h3>Output Window</h3>
+Compiling...
+Cpp1.cpp
+D:\南大 NCU\课程相关\编程课\编程练习\vc++6.0\Cpp1.cpp(4) : error C2143: syntax error : missing ')' before 'new'
+D:\南大 NCU\课程相关\编程课\编程练习\vc++6.0\Cpp1.cpp(4) : error C2143: syntax error : missing ';' before 'new'
+D:\南大 NCU\课程相关\编程课\编程练习\vc++6.0\Cpp1.cpp(4) : error C2143: syntax error : missing ';' before 'new'
+D:\南大 NCU\课程相关\编程课\编程练习\vc++6.0\Cpp1.cpp(4) : error C2059: syntax error : ')'
+D:\南大 NCU\课程相关\编程课\编程练习\vc++6.0\Cpp1.cpp(11) : error C2059: syntax error : 'new'
+D:\南大 NCU\课程相关\编程课\编程练习\vc++6.0\Cpp1.cpp(12) : error C2059: syntax error : ','
+D:\南大 NCU\课程相关\编程课\编程练习\vc++6.0\Cpp1.cpp(13) : error C2059: syntax error : ')'
+D:\南大 NCU\课程相关\编程课\编程练习\vc++6.0\Cpp1.cpp(13) : error C2143: syntax error : missing ')' before ';'
+D:\南大 NCU\课程相关\编程课\编程练习\vc++6.0\Cpp1.cpp(15) : error C2143: syntax error : missing ')' before '}'
+D:\南大 NCU\课程相关\编程课\编程练习\vc++6.0\Cpp1.cpp(15) : error C2143: syntax error : missing ';' before ')'
+D:\南大 NCU\课程相关\编程课\编程练习\vc++6.0\Cpp1.cpp(17) : error C2143: syntax error : missing ')' before 'new'
+D:\南大 NCU\课程相关\编程课\编程练习\vc++6.0\Cpp1.cpp(17) : error C2143: syntax error : missing ';' before 'new'
+D:\南大 NCU\课程相关\编程课\编程练习\vc++6.0\Cpp1.cpp(17) : error C2143: syntax error : missing ';' before 'new'
+D:\南大 NCU\课程相关\编程课\编程练习\vc++6.0\Cpp1.cpp(17) : error C2059: syntax error : ')'
+D:\南大 NCU\课程相关\编程课\编程练习\vc++6.0\Cpp1.cpp(18) : error C2143: syntax error : missing ';' before '{'
+D:\南大 NCU\课程相关\编程课\编程练习\vc++6.0\Cpp1.cpp(18) : error C2447: missing function header (old-style formal list?)
+执行 cl.exe 时出错.
+
+
+
+<h3>Results</h3>
+Cpp1.obj - 1 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
